@@ -20,4 +20,5 @@
 # print(format(payment, '.2f
 TAX_RATE = 0.07
 a=float(input())
+
 print(a*TAX_RATE).
